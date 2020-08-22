@@ -12,7 +12,7 @@ Want to start Live Coding, but not sure what to do next or what you need? Check 
 
 1. Stream in the "Science & Technology" category as this is where most folks will look for live coding
 1. Use the tags "Programming", "Software Development" and other related tags as folks will look for streams with those tags to find coding streams.
-1. Add yourself to belly.io/programming
+1. Add yourself to https://belly.io/programming
 1. (what else?)
 
 ## Improve Live Coding
